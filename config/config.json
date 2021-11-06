@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xaDDe8430D97f2d435581C4eaBedA7a418f2E8017",
+  "SCAN_LINK": "https://cchain.explorer.avax.network/address/0xaDDe8430D97f2d435581C4eaBedA7a418f2E8017",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL": "AVAX",
+    "ID": 1
+  },
+  "NFT_NAME": "AVAX Yachts",
+  "SYMBOL": "AY",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTrade",
+  "MARKETPLACE_LINK": "https://app.nftrade.com/assets/avalanche/0xadde8430d97f2d435581c4eabeda7a418f2e8017",
+  "SHOW_BACKGROUND": true
+}
